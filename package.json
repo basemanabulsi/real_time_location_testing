@@ -1,0 +1,30 @@
+{
+  "name": "real_time_location_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basemanabulsi/real_time_location_testing.git"
+  },
+  "keywords": [
+    "Node",
+    "js",
+    "Express",
+    "backend",
+    "sockets"
+  ],
+  "author": "Basem Alnabulsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basemanabulsi/real_time_location_testing/issues"
+  },
+  "homepage": "https://github.com/basemanabulsi/real_time_location_testing#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
